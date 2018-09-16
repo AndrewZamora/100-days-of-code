@@ -16,3 +16,23 @@ Still learning how to use the spread operator. However, it was useful in convert
 
 [Missing Letters](https://github.com/AndrewZamora/freeCodeCampProjects/commit/5619aea383b720be7b4574ca5172313f8f677e50)
 
+### Day 2: September 16, 2018
+
+
+**Today's Progress**: 
+Solved Sorted Union algorithm on freeCodeCamp. Learned how add default parameters to a function in JavaScript. Here are some  resources on Default Parameters on [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters) and [StackOverflow](https://stackoverflow.com/questions/894860/set-a-default-parameter-value-for-a-javascript-function) .
+I also got a chance to make a loading widget out of CSS. 
+
+**Thoughts:** 
+Being able to create default parameters is really nice but I'm not sure what to do if you receive more parameters than you expect.
+
+In terms of CSS animations, I think the concept of @keyframes are great because you can write one animation and use it several times. The difficult part is getting several animated elements in sync with each other. 
+
+
+
+**Links to work:**
+
+[Sorted Union](https://github.com/AndrewZamora/freeCodeCampProjects/commit/1c23f6952c9d5a2c462c872cdde3dded66cf60e1)
+
+[CSS Loading Widget](https://codepen.io/Supra_01/pen/RYYVPj?editors=0010)
+
