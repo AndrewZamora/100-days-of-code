@@ -36,3 +36,20 @@ In terms of CSS animations, I think the concept of @keyframes are great because 
 
 [CSS Loading Widget](https://codepen.io/Supra_01/pen/RYYVPj?editors=0010)
 
+### Day 3: September 17, 2018
+
+
+**Today's Progress**: 
+I got tripped up with Unicode characters on freeCodeCamp's Convert HTML Entities algorithm but managed to finish it. I also made a basic Vanilla JavaScript Carousel.
+
+**Thoughts:** 
+The Carousel wasn't too bad but I want to add better transitions and I also want add hand swiping to it.
+
+
+**Links to work:**
+
+[Convert HTML Entities](https://github.com/AndrewZamora/freeCodeCampProjects/blob/master/Intermediate%20Algorithm%20Scripting/convertHtmlEntities.js)
+
+[Vanilla JavaScript Carousel](https://codepen.io/Supra_01/pen/BOqRJO)
+
+
