@@ -52,4 +52,20 @@ The Carousel wasn't too bad but I want to add better transitions and I also want
 
 [Vanilla JavaScript Carousel](https://codepen.io/Supra_01/pen/BOqRJO)
 
+### Day 4: September 18, 2018
+
+
+**Today's Progress**: 
+Finished freeCodeCamp's Sum All Odd Fibonacci Numbers Algorithm. Started working on a floating action button. I was hoping to finish it today but wasn't able to. I should have a demo up tomorrow.
+
+**Thoughts:** 
+I used the reduce method to get the sum of an array. I haven't used it very much. So I will have to look into it more later.
+
+
+**Links to work:**
+
+[Sum All Odd Fibonacci Numbers](https://github.com/AndrewZamora/freeCodeCampProjects/commit/53025fad9312f541814046b5de0b171a8b10e880)
+
+
+
 
