@@ -66,6 +66,20 @@ I used the reduce method to get the sum of an array. I haven't used it very much
 
 [Sum All Odd Fibonacci Numbers](https://github.com/AndrewZamora/freeCodeCampProjects/commit/53025fad9312f541814046b5de0b171a8b10e880)
 
+### Day 5: September 19, 2018
+
+
+**Today's Progress**: 
+I didn't finish an algorithm on freeCodeCamp today. But, I finished the Vanilla JavaScript action button I was working on yesterday. I think the transition came out ok. 
+
+**Thoughts:** 
+I'm slowly getting hang of transitions. I might need to alternate between doing algorithms and making small components. 
+
+**Links to work:**
+
+[Vanilla JS Action Button](https://codepen.io/Supra_01/pen/zJypJa)
+
+
 
 
 
