@@ -79,6 +79,19 @@ I'm slowly getting hang of transitions. I might need to alternate between doing 
 
 [Vanilla JS Action Button](https://codepen.io/Supra_01/pen/zJypJa)
 
+### Day 6: September 20, 2018
+
+
+**Today's Progress**: 
+I solved Sum All Primes algorithm on freeCodeCamp today. 
+
+**Thoughts:** 
+I need to stop nesting loops and start breaking code up into functions that can be used in a loop or higher order function. 
+**Links to work:**
+
+[Sum All Primes](https://github.com/AndrewZamora/freeCodeCampProjects/commit/cecffd4e530f9ddac45542a573d1e37f2819fa63)
+
+
 
 
 
