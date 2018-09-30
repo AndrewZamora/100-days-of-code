@@ -145,6 +145,19 @@ When my code just won't work, I think I just need to go for a walk.
 
 [Algorithm Post](https://twitter.com/AndrewMZamora/status/1044443146912915456)
 
+### Day 11: September 25, 2018
+
+
+**Today's Progress**:
+Started building a login/Sign up page with React.js , React Router, and MaterializeCSS.
+
+**Thoughts:**
+I like the idea of building components that can be reused.
+
+**Links to work:**
+
+[react-login-form](https://github.com/AndrewZamora/react-login-form/commit/c52d666222b246673e8e153c03d7e182dfbfc117)
+
 
 
 
