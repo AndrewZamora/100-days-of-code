@@ -118,6 +118,19 @@ Think meet ups are a good way to take a break and see what others are doing.
 
 [Whale Sightings Map](https://github.com/AndrewZamora/Whale-Sightings-Map)
 
+### Day 9: September 23, 2018
+
+
+**Today's Progress**:
+Thanks to a friend and Twitter I was inspired to try CSS animations with scroll. Not quite what I wanted but I think it came out OK.
+**Thoughts:**
+It's nice to pick a small project that can be done in an hour. It makes you feel very accomplished.
+
+
+**Links to work:**
+
+[Header Scroll Animations](https://codepen.io/Supra_01/pen/QVPVvP)
+
 
 
 
