@@ -171,4 +171,18 @@ I got React.js  and react-router to work 😎.
 
 [react-login-form](https://github.com/AndrewZamora/react-login-form)
 
+### Day 13: September 27, 2018
+
+
+**Today's Progress**:
+Still working with React.js. I also ran into problems with LF and CRLF line ending with Git  because I'm working with Windows and a Linix distro 😥.
+
+**Thoughts:**
+I reverted a commit to get around it but I'm wondering if there is a better way.
+
+**Links to work:**
+
+[react-login-form](https://github.com/AndrewZamora/react-login-form)
+
+
 
