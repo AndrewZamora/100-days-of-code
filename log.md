@@ -91,6 +91,19 @@ I need to stop nesting loops and start breaking code up into functions that can 
 
 [Sum All Primes](https://github.com/AndrewZamora/freeCodeCampProjects/commit/cecffd4e530f9ddac45542a573d1e37f2819fa63)
 
+### Day 7: September 21, 2018
+
+
+**Today's Progress**:
+ Moved one of my vanilla JS components into my React project.
+
+**Thoughts:**
+Felt like a lot of work just to get the scroll height of a child element from a ref. I wonder is there is a better way?
+
+**Links to work:**
+
+[Whale Sightings Map](https://github.com/AndrewZamora/Whale-Sightings-Map)
+
 
 
 
