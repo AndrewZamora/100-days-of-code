@@ -197,5 +197,17 @@ React Router is cool but I have figure out how to pass props though the router t
 
 [react-login-form](https://github.com/AndrewZamora/react-login-form/pull/4)
 
+### Day 15: September 29, 2018
+
+**Today's Progress**:
+Spent some time figuring out how to pass props down to child components with react-router. I found a good resource [here](https://tylermcginnis.com/react-router-pass-props-to-components/)
+
+**Thoughts:**
+The spread operator feels like dark magic.
+
+**Links to work:**
+
+[react-login-form](https://github.com/AndrewZamora/react-login-for)
+
 
 
