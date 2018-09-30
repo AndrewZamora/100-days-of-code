@@ -158,7 +158,17 @@ I like the idea of building components that can be reused.
 
 [react-login-form](https://github.com/AndrewZamora/react-login-form/commit/c52d666222b246673e8e153c03d7e182dfbfc117)
 
+### Day 12: September 26, 2018
 
 
+**Today's Progress**:
+I got React.js  and react-router to work 😎.
+
+**Thoughts:**
+ Feeling good about that. Forms take a min to understand with React.js. I'm really grateful for the freeCodeCamp gitter chat 🙏. It's nice to have a place to go when you when you hit a small bump.
+
+**Links to work:**
+
+[react-login-form](https://github.com/AndrewZamora/react-login-form)
 
 
