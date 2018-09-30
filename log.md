@@ -123,6 +123,7 @@ Think meet ups are a good way to take a break and see what others are doing.
 
 **Today's Progress**:
 Thanks to a friend and Twitter I was inspired to try CSS animations with scroll. Not quite what I wanted but I think it came out OK.
+
 **Thoughts:**
 It's nice to pick a small project that can be done in an hour. It makes you feel very accomplished.
 
@@ -131,6 +132,18 @@ It's nice to pick a small project that can be done in an hour. It makes you feel
 
 [Header Scroll Animations](https://codepen.io/Supra_01/pen/QVPVvP)
 
+### Day 10: September 24, 2018
+
+
+**Today's Progress**:
+I got all the tests to pass locally for freeCodeCamp's Smallest Common Multiple Algorithm but the last test won't pass on their website so I'm doing something wrong but can't see it. I'll try again later and hopefully my mistake will be clear to me.
+
+**Thoughts:**
+When my code just won't work, I think I just need to go for a walk.
+
+**Links to work:**
+
+[Algorithm Post](https://twitter.com/AndrewMZamora/status/1044443146912915456)
 
 
 
