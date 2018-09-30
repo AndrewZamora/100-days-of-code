@@ -104,6 +104,20 @@ Felt like a lot of work just to get the scroll height of a child element from a 
 
 [Whale Sightings Map](https://github.com/AndrewZamora/Whale-Sightings-Map)
 
+### Day 8: September 22, 2018
+
+
+**Today's Progress**:
+Continued working on my React app. Still looking for a way to get around refs for scroll height. I also changed things up and went to a Meetup in Osaka. The view at the location was crazy.
+
+**Thoughts:**
+Think meet ups are a good way to take a break and see what others are doing.
+
+
+**Links to work:**
+
+[Whale Sightings Map](https://github.com/AndrewZamora/Whale-Sightings-Map)
+
 
 
 
