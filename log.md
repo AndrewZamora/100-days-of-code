@@ -184,5 +184,18 @@ I reverted a commit to get around it but I'm wondering if there is a better way.
 
 [react-login-form](https://github.com/AndrewZamora/react-login-form)
 
+### Day 14: September 28, 2018
+
+
+**Today's Progress**:
+Still working with React.js and figuring out how to best set up my routes. I also merge a branch in my code.
+
+**Thoughts:**
+React Router is cool but I have figure out how to pass props though the router to the child component.
+
+**Links to work:**
+
+[react-login-form](https://github.com/AndrewZamora/react-login-form/pull/4)
+
 
 
