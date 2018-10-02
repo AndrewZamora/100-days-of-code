@@ -209,5 +209,17 @@ The spread operator feels like dark magic.
 
 [react-login-form](https://github.com/AndrewZamora/react-login-for)
 
+### Day 16: September 30, 2018
+
+**Today's Progress**:
+Day 16 #100DaysOfCode Started making an eclipse 🌕☀️with CSS.
+
+**Thoughts:**
+It's crazy what you can do with a box-shadow and some transitions. 
+
+**Links to work:**
+
+
+
 
 
