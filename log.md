@@ -215,9 +215,33 @@ The spread operator feels like dark magic.
 Day 16 #100DaysOfCode Started making an eclipse 🌕☀️with CSS.
 
 **Thoughts:**
-It's crazy what you can do with a box-shadow and some transitions. 
+It's crazy what you can do with a box-shadow and some transitions.
 
 **Links to work:**
+
+### Day 17: October 1, 2018
+
+**Today's Progress**:
+Continued working on my react login component. I also continued my attempt at imitating an eclipse with CSS.
+
+**Thoughts:**
+I need to get better asking questions on github.
+
+**Links to work:**
+
+[react-login-form issue #2](https://github.com/AndrewZamora/react-login-form/issues/2)
+
+### Day 18: October 2, 2018
+
+**Today's Progress**:
+Finished the Drop it Algorithm on freeCodeCamp and continued working with React.js .
+
+**Thoughts:**
+Need to play with while loops more.
+
+**Links to work:**
+
+[Drop it Algorithm](https://github.com/AndrewZamora/freeCodeCampProjects/commit/d97cb20baccba3b5b567b7e3cf5751f011349128)
 
 
 
