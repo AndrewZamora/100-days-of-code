@@ -258,7 +258,7 @@ Recursion is hard.
 ### Day 20: October 3, 2018
 
 **Today's Progress**:
-Solved on steamroller algorithm on freeCodeCamp.
+Solved steamroller algorithm on freeCodeCamp.
 
 **Thoughts:**
 Recursion is still hard.
