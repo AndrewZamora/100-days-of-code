@@ -243,6 +243,19 @@ Need to play with while loops more.
 
 [Drop it Algorithm](https://github.com/AndrewZamora/freeCodeCampProjects/commit/d97cb20baccba3b5b567b7e3cf5751f011349128)
 
+### Day 19: October 3, 2018
+
+**Today's Progress**:
+Started working on steamroller algorithm on freeCodeCamp.
+
+**Thoughts:**
+Recursion is hard.
+
+**Links to work:**
+
+[Steamroller Algorithm](https://github.com/AndrewZamora/freeCodeCampProjects/commit/2b81389a591607cd68e26d11abe904bb9a5c9985)
+
+
 
 
 
