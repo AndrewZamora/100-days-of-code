@@ -255,6 +255,18 @@ Recursion is hard.
 
 [Steamroller Algorithm](https://github.com/AndrewZamora/freeCodeCampProjects/commit/2b81389a591607cd68e26d11abe904bb9a5c9985)
 
+### Day 20: October 3, 2018
+
+**Today's Progress**:
+Solved on steamroller algorithm on freeCodeCamp.
+
+**Thoughts:**
+Recursion is still hard.
+
+**Links to work:**
+
+[Steamroller Algorithm](https://github.com/AndrewZamora/freeCodeCampProjects/commit/c2e3ee100f6c0720e0cb75a54375a42b3fc0f688)
+
 
 
 
