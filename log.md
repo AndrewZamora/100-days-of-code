@@ -267,6 +267,18 @@ Recursion is still hard.
 
 [Steamroller Algorithm](https://github.com/AndrewZamora/freeCodeCampProjects/commit/c2e3ee100f6c0720e0cb75a54375a42b3fc0f688)
 
+### Day 21: October 4, 2018
+
+**Today's Progress**:
+Solved binary agents algorithm on freeCodeCamp.
+
+**Thoughts:**
+Having a function inside of another function can help separate tasks.
+
+**Links to work:**
+
+[Binary Agents Algorithm](https://github.com/AndrewZamora/freeCodeCampProjects/commit/70254a9781bf20236292a33b63b418abf412da53)
+
 
 
 
