@@ -291,6 +291,18 @@ These algorithms are taking a lot longer than I thought.
 
 [Everything be true](https://github.com/AndrewZamora/freeCodeCampProjects/blob/master/Intermediate%20Algorithm%20Scripting/everythingBeTrue.js)
 
+### Day 23: October 6, 2018
+
+**Today's Progress**:
+Solved the everything be true algorthm on freeCodeCamp.
+
+**Thoughts:**
+I need to start making these algorithm two day events.
+
+**Links to work:**
+
+[Everything be true](https://github.com/AndrewZamora/freeCodeCampProjects/blob/master/Intermediate%20Algorithm%20Scripting/everythingBeTrue.js)
+
 
 
 
