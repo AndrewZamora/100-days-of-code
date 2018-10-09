@@ -279,6 +279,18 @@ Having a function inside of another function can help separate tasks.
 
 [Binary Agents Algorithm](https://github.com/AndrewZamora/freeCodeCampProjects/commit/70254a9781bf20236292a33b63b418abf412da53)
 
+### Day 22: October 5, 2018
+
+**Today's Progress**:
+Started working on the everything be true algorthm on freeCodeCamp.
+
+**Thoughts:**
+These algorithms are taking a lot longer than I thought.
+
+**Links to work:**
+
+[Everything be true](https://github.com/AndrewZamora/freeCodeCampProjects/blob/master/Intermediate%20Algorithm%20Scripting/everythingBeTrue.js)
+
 
 
 
