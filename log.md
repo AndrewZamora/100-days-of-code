@@ -303,6 +303,30 @@ I need to start making these algorithm two day events.
 
 [Everything be true](https://github.com/AndrewZamora/freeCodeCampProjects/blob/master/Intermediate%20Algorithm%20Scripting/everythingBeTrue.js)
 
+### Day 24: October 7, 2018
+
+**Today's Progress**:
+Started working on the Wherefore art thou algorithm on freeCodeCamp.
+
+**Thoughts:**
+Just have to keep working.
+
+**Links to work:**
+
+[Wherefore Art Thou](https://github.com/AndrewZamora/freeCodeCampProjects/blob/master/Intermediate%20Algorithm%20Scripting/whereforeArtThou.js)
+
+### Day 25: October 8, 2018
+
+**Today's Progress**:
+Solved Wherefore art thou algorithm on freeCodeCamp.
+
+**Thoughts:**
+Need to get better at dealing with values in objects.
+
+**Links to work:**
+
+[Wherefore Art Thou](https://github.com/AndrewZamora/freeCodeCampProjects/blob/master/Intermediate%20Algorithm%20Scripting/whereforeArtThou.js)
+
 
 
 
