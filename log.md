@@ -327,6 +327,18 @@ Need to get better at dealing with values in objects.
 
 [Wherefore Art Thou](https://github.com/AndrewZamora/freeCodeCampProjects/blob/master/Intermediate%20Algorithm%20Scripting/whereforeArtThou.js)
 
+### Day 26: October 9, 2018
+
+**Today's Progress**:
+Worked with react today. I spent my time figuring out how to call a function in a parent component from the child component.
+
+**Thoughts:**
+Callback in react aren't bad but the syntax and file structure can trip you up.
+
+
+**Links to work:**
+
+[React Login Sandbox](https://codesandbox.io/s/wkkwo59my5)
 
 
 
