@@ -282,7 +282,7 @@ Having a function inside of another function can help separate tasks.
 ### Day 22: October 5, 2018
 
 **Today's Progress**:
-Started working on the everything be true algorthm on freeCodeCamp.
+Started working on the everything be true algorithm on freeCodeCamp.
 
 **Thoughts:**
 These algorithms are taking a lot longer than I thought.
@@ -294,7 +294,7 @@ These algorithms are taking a lot longer than I thought.
 ### Day 23: October 6, 2018
 
 **Today's Progress**:
-Solved the everything be true algorthm on freeCodeCamp.
+Solved the everything be true algorithm on freeCodeCamp.
 
 **Thoughts:**
 I need to start making these algorithm two day events.
