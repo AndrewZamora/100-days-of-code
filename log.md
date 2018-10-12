@@ -340,6 +340,22 @@ Callback in react aren't bad but the syntax and file structure can trip you up.
 
 [React Login Sandbox](https://codesandbox.io/s/wkkwo59my5)
 
+### Day 27: October 10, 2018
+
+**Today's Progress**:
+
+Closing issues and merging pull requests on my react project.
+
+**Thoughts:**
+
+I really need to think about how long I should research a question before asking someone for help.
+
+
+**Links to work:**
+
+[react-login-form](https://github.com/AndrewZamora/react-login-form/pull/5)
+
+
 
 
 
