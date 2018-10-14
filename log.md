@@ -380,5 +380,16 @@ So far it seems like create-react-app doesn't support importing a component from
 
 [react-login-form](https://github.com/AndrewZamora/react-login-form/pull/5)
 
+### Day 30: October 13, 2018
+**Today's Progress**:
+Researched importing and exporting components in React.js. Also started making a pagination component. 
+
+**Thoughts:**
+So far it seems like create-react-app doesn't support importing a component from a directory outside of the src directory. So I need to find a workaround or eject the code.s
+
+**Links to work:**
+
+[react-login-form](https://github.com/AndrewZamora/react-login-form/pull/5)
+
 
 
