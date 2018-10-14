@@ -355,6 +355,19 @@ I really need to think about how long I should research a question before asking
 
 [react-login-form](https://github.com/AndrewZamora/react-login-form/pull/5)
 
+### Day 28: October 11, 2018
+
+**Today's Progress**:
+Researched how to publish a module on to npm.
+
+
+**Thoughts:**
+Publishing seem pretty straight forward. However, doing this with create-react-app might not be supported.
+
+
+**Links to work:**
+
+[react-login-form](https://github.com/AndrewZamora/react-login-form/pull/5)
 
 
 
