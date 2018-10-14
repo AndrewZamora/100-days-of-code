@@ -369,7 +369,16 @@ Publishing seem pretty straight forward. However, doing this with create-react-a
 
 [react-login-form](https://github.com/AndrewZamora/react-login-form/pull/5)
 
+### Day 29: October 12, 2018
+**Today's Progress**:
+Researched how to create a component library with create-react-app.
 
+**Thoughts:**
+So far it seems like create-react-app doesn't support importing a component from a directory outside of the src directory. So I need to find a workaround or eject.
+
+**Links to work:**
+
+[react-login-form](https://github.com/AndrewZamora/react-login-form/pull/5)
 
 
 
