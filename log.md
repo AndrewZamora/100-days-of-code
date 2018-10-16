@@ -401,3 +401,13 @@ I don't like days where I don't have much to show for my hard work. But at the s
 **Links to work:**
 
 []()
+
+### Day 32: October 15, 2018
+**Today's Progress**:
+Used react-scripts for examples and still researching on how to make a component library in react.js.
+
+**Thoughts:**
+Not much progress but getting there.
+**Links to work:**
+
+[react-login-form](https://github.com/AndrewZamora/react-login-form/pull/7)
