@@ -408,6 +408,18 @@ Used react-scripts for examples and still researching on how to make a component
 
 **Thoughts:**
 Not much progress but getting there.
+
 **Links to work:**
 
-[react-login-form](https://github.com/AndrewZamora/react-login-form/pull/7)
+[react-login-form Pull Request 7](https://github.com/AndrewZamora/react-login-form/pull/7)
+
+### Day 33: October 16, 2018
+**Today's Progress**:
+Got some helpful pointers on my last pull request. Also, finish my basic pagination in HTML and CSS. I will have to make it responsive and add javascript to it later.
+
+**Thoughts:**
+Glad I'm on the right direction but would like to get more coding done.
+
+**Links to work:**
+
+[Basic Pagination]()
