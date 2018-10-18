@@ -422,4 +422,16 @@ Glad I'm on the right direction but would like to get more coding done.
 
 **Links to work:**
 
-[Basic Pagination]()
+[Basic Pagination](https://codepen.io/Supra_01/pen/YJezEg)
+
+### Day 34: October 17, 2018
+**Today's Progress**:
+
+Nothing too exciting. Added some Javascript to my pagination component and pushed a few commits to my repository.
+
+**Thoughts:**
+I'm getting more comfortable with callbacks and iteration over nodes in the DOM.
+
+**Links to work:**
+
+[Basic Pagination](https://codepen.io/Supra_01/pen/YJezEg)
