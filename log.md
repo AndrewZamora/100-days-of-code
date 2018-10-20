@@ -435,3 +435,27 @@ I'm getting more comfortable with callbacks and iteration over nodes in the DOM.
 **Links to work:**
 
 [Basic Pagination](https://codepen.io/Supra_01/pen/YJezEg)
+
+### Day 35: October 18, 2018
+**Today's Progress**:
+
+Started working on Map the Debris algorithm on freeCodeCamp.
+
+**Thoughts:**
+I'm trying to write down how I want to solve an algorithm before I start programming.
+
+**Links to work:**
+
+[Map the debris](https://github.com/AndrewZamora/freeCodeCampProjects/blob/master/Intermediate%20Algorithm%20Scripting/mapTheDebris.js)
+
+
+### Day 36: October 19, 2018
+**Today's Progress**:
+
+Solved Map the Debris algorithm on freeCodeCamp.
+
+**Thoughts:**
+Three more algorithm challenges to go.
+**Links to work:**
+
+[Map the debris](https://github.com/AndrewZamora/freeCodeCampProjects/blob/master/Intermediate%20Algorithm%20Scripting/mapTheDebris.js)
